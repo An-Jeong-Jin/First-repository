@@ -11,3 +11,4 @@ if __name__ =='__main__':
 
 #안녕하세요 
 print("Hello")
+print("내일 금요일이당")
